@@ -43,5 +43,16 @@ Upon the above dataset structure, you can generate training/testing dataset by r
 sh scripts/prepare_vivid_data.sh
 ```
 ## Train
+
+```bash
+sh scripts/train_vivid_resnet18_indoor.sh
+sh scripts/train_vivid_resnet18_outdoor.sh
+```
+
 ## Evaluation
-## Reference
+
+```bash
+bash scripts/test_vivid_indoor.sh
+bash scripts/test_vivid_outdoor.sh
+```
+

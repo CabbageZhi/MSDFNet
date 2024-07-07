@@ -45,14 +45,14 @@ sh scripts/prepare_vivid_data.sh
 ## Train
 
 ```bash
-sh scripts/train_vivid_resnet18_indoor.sh
-sh scripts/train_vivid_resnet18_outdoor.sh
+sh scripts/trai_indoor.sh
+sh scripts/train_outdoor.sh
 ```
 
 ## Evaluation
 
 ```bash
-bash scripts/test_vivid_indoor.sh
-bash scripts/test_vivid_outdoor.sh
+bash scripts/test_indoor.sh
+bash scripts/test_outdoor.sh
 ```
 

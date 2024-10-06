@@ -59,5 +59,7 @@ bash scripts/test_outdoor.sh
 ## References
 
 Lee A J, Cho Y, Shin Y, et al. ViViD++: Vision for visibility dataset[J]. IEEE Robotics and Automation Letters, 2022, 7(3): 6282-6289.
+
 Shin U, Park J, Kweon I S. Deep depth estimation from thermal image[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 1043-1053.
+
 Shin U, Lee K, Lee B U, et al. Maximizing self-supervision from thermal image for effective self-supervised learning of depth and ego-motion[J]. IEEE Robotics and Automation Letters, 2022, 7(3): 7771-7778.
